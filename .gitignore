@@ -1,0 +1,6 @@
+## dependencies
+node_modules
+
+## Uncomment line below if you prefer to
+## keep compiled files out of version control
+# dist/
