@@ -43,7 +43,7 @@ const restoreProgressFromStorage = inputNodeList => {
 const handleTaskProgress = () => {
     const progressData = JSON.parse(localStorage.getItem('progress')) || []
     const progress = progressData.filter(bool => bool)
-    document.getElementById('taskDone').textContent = progressData.length === progress.length ? 'Готово? Чего же вы ждёте? Скорее отправляйте нам результат! Удачи:)' : ''
+    document.getElementById('taskDone').textContent = progressData.length && progressData.length === progress.length ? 'Готово? Чего же вы ждёте? Скорее отправляйте нам результат! Удачи:)' : ''
 }
 
 document.addEventListener('DOMContentLoaded', onDomLoaded)
