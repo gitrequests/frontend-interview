@@ -4,7 +4,7 @@ Repository for interviews. Fork this repository and commit to get the job done.
 ---
 
 # Tasks
-*(Additional info in _task folder)*
+*(Additional info in ./docs folder)*
 
 - [ ] Fork this repository
 
