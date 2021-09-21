@@ -1,6 +1,25 @@
-## dependencies
+### Node ###
+# Logs
+logs
+npm-debug.log*
+
+# Dependency directory
+# https://docs.npmjs.com/misc/faq#should-i-check-my-node-modules-folder-into-git
 node_modules
 
-## Uncomment line below if you prefer to
-## keep compiled files out of version control
-# dist/
+# Optional npm cache directory
+.npm
+# Optional REPL history
+.node_repl_history
+
+### Build ###
+# Build files
+dist/
+
+### Code ###
+# Visual Studio Code - https://code.visualstudio.com/
+.settings/
+.vscode/
+
+# WebStorm
+.idea
