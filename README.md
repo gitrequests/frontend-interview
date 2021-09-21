@@ -1,12 +1,11 @@
 # frontend-interview
-Repository for interviews. Clone this repository and commit to get the job done.
+
+Web version (Russian): [gitrequests.github.io/frontend-interview/](https://gitrequests.github.io/frontend-interview/)
 
 ---
 
 # Tasks
 *(Additional info in ./docs folder)*
-
-- [ ] Clone this repository (don't fork the repository to make your work personal)
 
 - [ ] Make up a form with an input field and a button as in the image
 
@@ -27,5 +26,3 @@ Repository for interviews. Clone this repository and commit to get the job done.
 - [ ] Include the font-awesome font library in the project build, add any icon to the button
 
 - [ ] Make changes to version control system (git)
-
-- [ ] Send the link to your repository (don't pull request)
