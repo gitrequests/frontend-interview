@@ -10,11 +10,11 @@ Repository for interviews. Fork this repository and commit to get the job done.
 
 - [ ] Make up a form with an input field and a button as in the image
 
-![Form desktop](_task/assets/img/form-desktop.jpg)
+![Form desktop](./docs/assets/img/form-desktop.jpg)
 
 - [ ] Form view on mobile devices
 
-![Form mobile](_task/assets/img/form-mobile.jpg)
+![Form mobile](./docs/assets/img/form-mobile.jpg)
 
 - [ ] Organize simple field validation (must be filled in)
 
