@@ -1,12 +1,12 @@
 # frontend-interview
-Repository for interviews. Fork this repository and commit to get the job done.
+Repository for interviews. Clone this repository and commit to get the job done.
 
 ---
 
 # Tasks
 *(Additional info in ./docs folder)*
 
-- [ ] Fork this repository
+- [ ] Clone this repository (don't fork the repository to make your work personal)
 
 - [ ] Make up a form with an input field and a button as in the image
 
