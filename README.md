@@ -21,8 +21,8 @@ Web version (Russian): [gitrequests.github.io/frontend-interview/](https://gitre
 
 - [ ] After receiving a response, display a notification about the result of the request
 
-- [ ] Organize project build using CSS preprocessor and script optimization for old versions of browsers (SCSS, Babel)
+- [ ] Organize project build using Webpack with CSS preprocessor and script optimization for old versions of browsers (SCSS, Babel)
 
-- [ ] Include the font-awesome font library in the project build, add any icon to the button
+- [ ] Include the font-awesome font library in the project build (Webpack), add any icon to the button
 
 - [ ] Make changes to version control system (git)
