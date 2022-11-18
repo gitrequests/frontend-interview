@@ -2,6 +2,8 @@
 
 Web version (Russian): [gitrequests.github.io/frontend-interview/](https://gitrequests.github.io/frontend-interview/)
 
+The task must be completed without the use of UI libraries and frameworks. Try to follow the practices and methodologies you have learned.
+
 ---
 
 # Tasks
@@ -23,6 +25,6 @@ Web version (Russian): [gitrequests.github.io/frontend-interview/](https://gitre
 
 - [ ] Organize project build using Webpack with CSS preprocessor and script optimization for old versions of browsers (SCSS, Babel)
 
-- [ ] Include the font-awesome font library in the project build (Webpack), add any icon to the button
+- [ ] Include the font-awesome library v4.7 in the project build (Webpack), add any icon to the button
 
 - [ ] Make changes to version control system (git)
