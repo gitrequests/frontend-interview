@@ -23,6 +23,8 @@ The task must be completed without the use of UI libraries and frameworks. Try t
 
 - [ ] After receiving a response, display a notification about the result of the request
 
+- [ ] Split code into modules
+
 - [ ] Organize project build using Webpack with CSS preprocessor and script optimization for old versions of browsers (SCSS, Babel)
 
 - [ ] Include the font-awesome library v4.7 in the project build (Webpack), add any icon to the button
